@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HuaweiGoogleServicesSingleApk</string>
+
+    <string name="btn_open_activity_mapview">Map View Activity</string>
+    <string name="title_activity_map_view">MapViewActivity</string>
+</resources>
